@@ -9,8 +9,8 @@ ___
 
 ### Links
 
-- Solution URL: []().
-- Live Site URL: []().
+- Solution URL: [Click her](https://github.com/RyanAbdaul/fylo-data-storage).
+- Live Site URL: [Click her](https://ryanabdaul.github.io/fylo-data-storage/).
 
 ## My Process
 ### Built With 
